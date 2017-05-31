@@ -1,0 +1,23 @@
+{
+  "name": "vue-bulma",
+  "version": "0.0.35",
+  "description": "Bulma components built with Vue.js",
+  "main": "src/vue-bulma.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cklmercer/vue-bulma.git"
+  },
+  "keywords": [
+    "bulma",
+    "vue",
+    "vuejs",
+    "vue.js",
+    "bulma.io"
+  ],
+  "author": "Cody Mercer <dev@codymercer.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cklmercer/vue-bulma/issues"
+  },
+  "homepage": "https://github.com/cklmercer/vue-bulma#readme"
+}

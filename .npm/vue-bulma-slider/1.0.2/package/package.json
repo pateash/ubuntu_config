@@ -1,0 +1,21 @@
+{
+  "name": "vue-bulma-slider",
+  "version": "1.0.2",
+  "description": "Slider Component for Vue Bulma",
+  "main": "src/Slider.vue",
+  "peerDependencies": {
+    "bulma": ">=0.2",
+    "vue": ">=2"
+  },
+  "repository": "vue-bulma/slider",
+  "keywords": [
+    "vue",
+    "bulma",
+    "vue-bulma",
+    "vue-bulma-component",
+    "vue-bulma-slider",
+    "slider"
+  ],
+  "author": "Fangdun Cai <cfddream@gmail.com>",
+  "license": "MIT"
+}

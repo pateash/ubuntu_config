@@ -1,0 +1,25 @@
+{
+  "name": "vue-bulma-jump",
+  "version": "0.0.2",
+  "description": "Jump component is based on jump.js for Vue Bulma",
+  "main": "src/index.js",
+  "peerDependencies": {
+    "bulma": ">=0.2",
+    "vue": ">=2"
+  },
+  "repository": "vue-bulma/jump",
+  "keywords": [
+    "vue",
+    "bulma",
+    "vue-bulma",
+    "vue-bulma-component",
+    "vue-bulma-jump",
+    "jump",
+    "back-to-top"
+  ],
+  "author": "Fangdun Cai <cfddream@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "jump.js": "^1.0.2"
+  }
+}
