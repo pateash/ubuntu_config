@@ -18,6 +18,6 @@
     "wysiwyg"
   ],
   "dependencies": {
-    "quill": "1.1.0"
+    "quill": "1.3.7"
   }
 }
