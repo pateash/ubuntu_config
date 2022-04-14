@@ -32,7 +32,7 @@
     "e2e:build": "cross-env BABEL_ENV=development mocha test/e2e/test-build.js --timeout 60000 --compilers js:babel-core/register"
   },
   "dependencies": {
-    "async": "^2.0.0-rc.2",
+    "async": "^3.2.2",
     "autoprefixer": "^6.6.1",
     "babel-core": "^6.21.0",
     "babel-loader": "^6.2.10",
